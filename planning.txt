@@ -1,0 +1,14 @@
+user can see a hotel
+user can book a hotel
+user can get a reservation ticket
+user can pay via credit card
+
+
+Classes:
+
+ Hotel
+ SpaHotel
+ Reservation
+ CreditCard
+ SecureCreditCard
+ SpaTicket
